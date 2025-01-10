@@ -111,7 +111,7 @@
   ## 🎖️ Git profile Trophies
 
 <p align="center">
- <img width="1000" src="https://github-profile-trophy.vercel.app/?username=chandan789maity&theme=matrix" alt="Trophy"/>
+ <img width="1000" src="https://github-profile-trophy.vercel.app/?username=chandanepam789&theme=matrix" alt="Trophy"/>
 </p>
 
 <!--   -------------------------------------------------- --------------------------------------------------------------------------------------->
@@ -119,8 +119,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 <div align="center" width="1000" style=" display:flex; background-color: #1e1e1e; width:100%; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple&show_icons=true&count_private=true" height="190px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="190px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanepam789&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple&show_icons=true&count_private=true" height="190px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanepam789&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="190px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
 </div>
 <br>
 <div>
