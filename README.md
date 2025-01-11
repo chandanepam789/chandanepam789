@@ -70,13 +70,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanepam789&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="190px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
 </div>
 <br>
-<div>
-  <p align="center">
-  <a href="https://github.com/chandanepam789">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandanepam789&theme=midnight_purple&hide_border=false" alt="Chandan's GitHub Profile Summary" style="border: 2px solid white; border-radius: 10px;" />
-  </a>
-</p>
-</div>
+
 
 <!-- ----------- -->
 </div>
