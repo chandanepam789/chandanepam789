@@ -4,7 +4,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=850&duration=1500&pause=1000&lines=A+passionate+Fullstack+web+developer+from+India;A+passionate+AI-ML+developer+from+India;" width="auto" height="35"/>
 </p>
 <div>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan789maity&label=Profile%20views&color=0e75b6&style=flat" alt="chandan789maity" /> 
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanepam789&label=Profile%20views&color=0e75b6&style=flat" alt="chandanepam789" /> 
    </p>
     <img align="right" alt="coding" width="450" src="https://github.com/chandan789maity/chandan789maity/blob/main/right.gif?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
     
@@ -33,11 +33,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/chandan_maity_789/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
-  </a>
   &nbsp;
-  <a href="mailto:maity789chandan@gmail.com">
+  <a href="mailto:chandan_maity@epam.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
   </a>
   
@@ -54,23 +51,11 @@
 ## 🛠️ My Skills
 <!-- ------------------------------------------------------------------------------------------------------------------------------ -->
 <div>
-<h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,py,c" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,py,c,react,tailwind,bootstrap,css,html,redux,materialui" />
   </a>
 </p>
-</div>
-
-<div>
-<h3 align="left">Frontend Skills I Use:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,css,html,redux,materialui" />
-  </a>
-</p>
-</div>
-
 <div>
 <h3 align="left">Backend Skills I Use:</h3>
 <p align="left">
