@@ -57,40 +57,9 @@
   </a>
 </p>
 </div>
-
-<div>
-<h3 align="left">Machine Learning Skills I Use:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" />
-  </a>
-</p>
-</div>
-
-<div>
-  <h3 align="left">Environments and Tools I Use:</h3>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,vscode,idea,postman,maven,vite,netlify,vercel,github,git" />
-  </a>
-</p>
-</div>
-
-<div>
-  <h3 align="left">Operating Systems I Use:</h3>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-  </a>
-</p>
-  </div>
 <!--   ------------------------------------------------------------------------------------------------------------------------------------ -->
   
-  ## 🎖️ Git profile Trophies
-
-<p align="center">
- <img width="1000" src="https://github-profile-trophy.vercel.app/?username=chandanepam789&theme=matrix" alt="Trophy"/>
-</p>
+ 
 
 <!--   -------------------------------------------------- --------------------------------------------------------------------------------------->
 
